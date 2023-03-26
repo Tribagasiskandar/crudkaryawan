@@ -1,0 +1,25 @@
+{
+  "Employe": [
+    {
+      "id": 7,
+      "name": "dekejid@mailinator.com",
+      "email": "qiveparez@mailinator.com",
+      "phone": "majyg@mailinator.com",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "wugus@mailinator.com",
+      "email": "renotug@mailinator.com",
+      "phone": "tojuz@mailinator.com",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "bagas",
+      "email": "bagasiskar10@gmail.com",
+      "phone": "082368485744",
+      "active": true
+    }
+  ]
+}
